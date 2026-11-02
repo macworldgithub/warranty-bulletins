@@ -1,0 +1,16 @@
+{
+  "stage": "Waiting for signed-in TESS screen",
+  "time": "2026-10-30T12:05:48.070Z",
+  "pages": [
+    {
+      "url": "https://portal.mmal.com.au/irj/portal?NavigationTarget=navurl%3A%2F%2F70f256b0389074c74c1a39c9fcdf9746&PrevNavTarget=navurl%3A%2F%2F70f256b0389074c74c1a39c9fcdf9746&NavMode=10&CurrentWindowId=WID1793222277027",
+      "frames": [
+        "https://portal.mmal.com.au/irj/portal?NavigationTarget=navurl%3A%2F%2F70f256b0389074c74c1a39c9fcdf9746&PrevNavTarget=navurl%3A%2F%2F70f256b0389074c74c1a39c9fcdf9746&NavMode=10&CurrentWindowId=WID1793222277027",
+        "https://portal.mmal.com.au/com.sap.portal.pagebuilder/html/EmptyDocument.html",
+        "https://portal.mmal.com.au/com.sap.portal.pagebuilder/html/EmptyDocument.html",
+        "https://portal.mmal.com.au/irj/servlet/prt/portal/prteventname/Navigate/prtroot/pcd!3aportal_content!2fevery_user!2fgeneral!2fdefaultAjaxframeworkContent!2fcom.sap.portal.contentarea?windowId=WID1793361935654&PrevNavTarget=navurl%3A%2F%2F70f256b0389074c74c1a39c9fcdf9746&NavMode=10&CurrentWindowId=WID1793222277027",
+        "https://mmaldp5.mmal.com.au/sap/bc/ui5_ui5/sap/ydp/index.html?sap-ui-theme=sap_belize&sap-language=EN&sap-client=100&sap-locale=en_US&sap-rtl=&sap-theme=MMAL_ThemeTwo%40https%3A%2F%2Fportal.mmal.com.au%3A443%2Fcom.sap.portal.theming.webdav.themeswebdavlistener%2FGUIDc23f1195e795d15046476f6595ded4ee&sap-accessibility="
+      ]
+    }
+  ]
+}
