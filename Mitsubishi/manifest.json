@@ -1,10 +1,8 @@
 {
   "manufacturer": "Mitsubishi",
-  "updatedAt": "2026-10-30T15:10:07.321Z",
-  "searchScope": "Published documents matching warranty (filters cleared by downloader)",
-  "listedDocuments": 448,
+  "updatedAt": "2026-11-02T06:03:38.739Z",
   "complete": false,
-  "failures": 12,
+  "error": "No TESS screen found. Sign in and open TESS & Workshop Manuals.",
   "bulletins": [
     {
       "title": "21MY Express Van – Labour Operation Flat Rate Times",
